@@ -8,6 +8,7 @@ ARP Scanner (arp_scanner.py): The ARP scanner is used to identify devices connec
 Nmap Scanner (nmap_scanner.py): The Nmap scanner is used to perform port scanning on a target system. It works by using the Nmap tool through Python to identify open ports and check the status of services running on those ports. This helps in understanding which services are accessible on a system. The scanner performs the process efficiently and provides the results without delay. It is useful for basic network analysis and gives an idea about system exposure in a network.
 
 To run the project:
+
 •	Run ping_scanner.py to check active hosts
 
 •	Run arp_scanner.py to find devices in network
