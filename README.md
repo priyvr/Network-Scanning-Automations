@@ -9,7 +9,9 @@ Nmap Scanner (nmap_scanner.py): The Nmap scanner is used to perform port scannin
 
 To run the project:
 •	Run ping_scanner.py to check active hosts
+
 •	Run arp_scanner.py to find devices in network
+
 •	Run nmap_scanner.py to scan open ports
 
 Screenshots of the outputs are also added in this repository for reference.
